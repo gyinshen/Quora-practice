@@ -1,0 +1,6 @@
+.middlepanel {
+    -webkit-flex: 2;
+    -ms-flex: 2;
+    flex: 2;
+    color: blue;
+  };
